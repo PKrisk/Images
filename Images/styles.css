@@ -1,0 +1,73 @@
+/* Styles */
+
+* {
+	box-sizing: border-box;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+}
+
+section {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.item {
+	width: 50%;
+}
+
+.item img {
+	display: block;
+	margin: 0 auto;
+}
+.item p {
+	margin: 2em 0;
+}
+img {
+	max-width: 100%;
+	height: auto;
+}
+
+.one {
+	color: #000000;
+	background-color: #FFFFFF;
+
+}
+
+.two {
+	color: #F4CB89;
+	background-color: #7D2E35;
+
+}
+
+.three {
+	color: #ED1C24;
+	background-color: #F4CB89;
+
+}
+
+.four {
+	color: #F4CB89;
+	background-color: #ED1C24;
+
+}
+
+.five {
+	color: #F4CB89;
+	background-color: #7D2E35;
+
+}
+
+.six {
+	color: #FFFFFF;
+	background-color: #000000;
+
+}
+
+
+
+article {
+
